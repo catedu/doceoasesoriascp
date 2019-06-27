@@ -9,12 +9,17 @@
 * [Roles en la formación](0_doceo_30_gestion_de_la_formacion_del_profesorado/roles_en_la_formacion.md)
 * [Propuestas de mejoras y reportes de error.](1_doceo_para_docentes/proponer_mejoras_y_participar_en_la_formacion.md)
 
-## Docentes y otros miembros de la Comunidad Educativa.
+## Funcionamiento general de la aplicación. Docentes y Centros.
 
+* [Docentes y centros](1_doceo_para_docentes/docentes-y-centros.md)
 * [Participación en actividades: Información, inscripción y consulta.](1_doceo_para_docentes/README.md)
 * [La página pública: Información sobre actividades.](1_doceo_para_docentes/la_pagina_publica_informacion_sobre_actividades.md)
 * [Inscripción en actividades.](1_doceo_para_docentes/inscripcion_en_actividades.md)
 * [Participación en actividades.](2_actividades/participacion-en-actividades.md)
+* [Estado de una actividad](2_actividades/flujo_de_una_actividad.md)
+  * [Cambiar el estado de una actividad](2_actividades/flujo_de_una_actividad/cambiar-el-estado-de-una-actividad.md)
+
+
 
 ## Asesorías
 
