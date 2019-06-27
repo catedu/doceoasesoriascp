@@ -1,1 +1,1 @@
-{% include "git+https://github.com/catedu/manualdoceo.git//direccion-de-cp/el-rol-de-direccion-en-las-actividades.md" %}
+{% include "git+https://github.com/catedu/manualdoceo.git/direccion-de-cp/el-rol-de-direccion-en-las-actividades.md" %}
