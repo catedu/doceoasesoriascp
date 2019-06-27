@@ -1,0 +1,1 @@
+{% include "git+https://github.com/catedu/manualdoceo.git/actividades/coordinacion-de-actividades/certificacion.md" %}

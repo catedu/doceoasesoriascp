@@ -1,0 +1,1 @@
+{% include "git+https://github.com/catedu/manualdoceo.git/coordinacion-de-actividades/sesiones.md" %}
