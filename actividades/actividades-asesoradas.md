@@ -1,1 +1,1 @@
-{% include "git+https://github.com/catedu/manualdoceo.git/actividades-asesoradas.md" %}
+{% include "git+https://github.com/catedu/manualdoceo.git/actividades/actividades-asesoradas.md" %}
