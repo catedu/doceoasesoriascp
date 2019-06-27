@@ -1,1 +1,1 @@
-{% include "git+https://github.com/catedu/manualdoceo.git/actividades.md" %}
+{% include "git+https://github.com/catedu/manualdoceo.git/gestion/gestion-de-ponentes.md" %}

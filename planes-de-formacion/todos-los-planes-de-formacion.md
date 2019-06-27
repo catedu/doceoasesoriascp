@@ -1,1 +1,1 @@
-{% include "git+https://github.com/catedu/manualdoceo.git/actividades.md" %}
+{% include "git+https://github.com/catedu/manualdoceo.git/planes-de-formacion/todos-los-planes-de-formacion.md" %}
