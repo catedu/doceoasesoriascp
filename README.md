@@ -1,3 +1,8 @@
-# My Awesome Book
+# Manual de Doceo. Asesorías y Direcciones de CP
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+
+Manual de la nueva aplicación de gestión de la formación del profesorado en Aragón. 
+
+Este manual está orientado a los roles de Asesoría y Dirección de Centro de Profesorado.
+
+![](/assets/Selección_786.png)
